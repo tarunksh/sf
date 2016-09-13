@@ -5,6 +5,8 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 		System.out.println("Hello World, from tk");
 		System.out.println(System.getProperty("java.runtime.version"));
+		//testing
+		System.out.println("Looks like we fixed the issue");
 	}
 
 }
